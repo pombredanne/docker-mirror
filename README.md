@@ -1,2 +1,2 @@
-# docker-learn-examples
-A set of examples using docker and docker compose
+# docker-mirror
+Run a Docker Hub mirror on Docker for Mac.
