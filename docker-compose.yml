@@ -9,5 +9,5 @@ services:
             - ./config.yml:/etc/docker/registry/config.yml
         restart: always
     redis:
-        image: redis:3.2.8-alpine
+        image: redis:3.2.9-alpine
         restart: always
